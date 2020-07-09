@@ -1,14 +1,18 @@
 <!-- https://app.netlify.com/sites/viniciusvinna-react-pocket-spotify/deploys -->
 <!-- https://viniciusvinna-react-pocket-spotify.netlify.app/ -->
 
-# React / Redux Spotify Pocket SPA
+# React Hooks / Redux - Spotify Pocket SPA
+
+<!--
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3194f71c-2da4-4146-b1ba-3c14e024ec2f/deploy-status)](https://app.netlify.com/sites/viniciusvinna-react-pocket-spotify/deploys)
+-->
 
 ## Objetivo:
 
 Neste último desafio você aplicará todo o conhecimento adquirido durante o curso e terá que desenvolver uma versão _**pocket**_ do Spotify, integrada a [Web API](https://developer.spotify.com/documentation/web-api) oficial, utilizando `fluxo implícito de concessão` (Implicit Grant Flow) para realizar a autenticação do usuário, permite que ele acesse rotas privadas dentro da aplicação.
 
+<!--
 ## Referência do projeto finalizado e em ambiente de produção:
 
 [https://viniciusvinna-react-pocket-spotify.netlify.app](https://viniciusvinna-react-pocket-spotify.netlify.app)
@@ -20,6 +24,7 @@ Neste último desafio você aplicará todo o conhecimento adquirido durante o cu
 Caso precise consultar o código fonte original para tirar dúvidas, você poderá acessar:
 
 > [https://github.com/ViniciusVinna/react-spotify-pocket](https://github.com/ViniciusVinna/react-spotify-pocket)
+-->
 
 ## Tópicos:
 
@@ -196,6 +201,7 @@ Antes de começar a desenvolver o projeto, primeiro você precisará criar uma c
     └── reset.scss
 ```
 
+<!--
 ## ‼️ Atributos `data-testid` Obrigatórios:
 
 Para que seu teste seja avaliado corretamente na plataforma é necessário que os `Componentes` e `Contêineres` tenham tenham os atributos `data-testid` atribuídos aos seguintes componentes
@@ -238,6 +244,7 @@ Para que seu teste seja avaliado corretamente na plataforma é necessário que o
 ## Estado Inicial da Store
 
 > > ![](docs/state.jpg)
+-->
 
 ## Dependências Necessárias
 
@@ -259,8 +266,9 @@ Você pode instalar todas as dependências necessárias através utilizando o Ya
 
 - **Yarn** ▶️ `yarn add lodash node-sass prop-types react-icons react-ink react-redux react-router-dom redux redux-persist`
 - **NPM** ▶️ `npm install --save lodash node-sass prop-types react-icons react-ink react-redux react-router-dom redux redux-persist`
+<!--
 
 ## Requisitos:
 
 - **[Node v13.8.0](https://nodejs.org/en/)** - ou superior, instalado em seu computador.
-- **[Create React App](https://github.com/facebook/create-react-app)**
+- **[Create React App](https://github.com/facebook/create-react-app)** -->
